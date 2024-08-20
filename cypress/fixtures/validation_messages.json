@@ -1,0 +1,6 @@
+{
+    "email_invalid": "Please enter a valid email address using a minimum of six characters.",
+    "mandatory": "This is a mandatory field.",
+    "first_name_numeric": "Please avoid the following characters: 0123456",
+    "first_name_max": " Please enter a minimum of 2 and a maximum of 24 characters for your first name. "
+  }

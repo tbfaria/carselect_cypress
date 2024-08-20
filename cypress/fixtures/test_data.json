@@ -1,0 +1,7 @@
+{
+  "website": "https://shop.mercedes-benz.com/en-au/shop/vehicle/srp/demo",
+  "location": "New South Wales",
+  "postalCode": "2007",
+  "carColour": "Denim Blue metallic",
+  "testFileLocation": "cypress/downloads/car.txt"
+}
